@@ -32,6 +32,6 @@ Pygments==2.18.0
 requests==2.32.3
 rich==13.9.2
 six==1.16.0
-tensorboard==2.18.0
+tensorboard==2.17.0 
 tensorboard-data-server==0.7.2
-tensorflow==2.18.0  # Use a compatible version
+tensorflow==2.17.0  # Use a compatible version
