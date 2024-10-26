@@ -34,6 +34,6 @@ def index():
             prediction = 'Pneumonia' if predictions[0][0] < 0.5 else 'Normal'
     return render_template('index.html', prediction=prediction)
 
-if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 5000))  # Use the PORT environment variable
-    app.run(host='0.0.0.0', port=port, debug=True)
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
