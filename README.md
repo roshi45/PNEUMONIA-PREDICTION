@@ -60,27 +60,10 @@ python app.py
 ---
 
 ## 📷 Sample Prediction  
-![Pneumonia Prediction UI](your_screenshot_link_here)  
+![Pneumonia Prediction UI](![image](https://github.com/user-attachments/assets/dc2a7f73-184d-4d3e-ba20-cbcd8c34f2b5)
+)  
 
 ---
 
-## 🏆 Contributors  
-- **Roshini Priya** (@roshi45)  
 
-If you’d like to contribute, feel free to submit a pull request!  
 
----
-
-## 📝 License  
-This project is open-source under the **MIT License**.  
-
----
-
-### 🌟 **Star the Repo if You Like It!** ⭐  
-```
-
-### **What You Need to Update**  
-1. Replace `your_download_link_here` with a **Google Drive link** for `model.h5`.  
-2. Replace `your_screenshot_link_here` with a screenshot of the UI.  
-
-Would you like me to add more details? 🚀
