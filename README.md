@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ Download the Model  
-Since GitHub LFS is restricted, **manually download** the trained model (`model.h5`) from [Google Drive](your_download_link_here) and place it in the project folder.  
+Since GitHub LFS is restricted, **manually download** the trained model (`model.h5`) and place it in the project folder.  
 
 ### 4️⃣ Run the Flask App  
 ```bash
