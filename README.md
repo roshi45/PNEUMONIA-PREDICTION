@@ -60,9 +60,8 @@ python app.py
 ---
 
 ## 📷 Sample Prediction  
-![Pneumonia Prediction UI](![image](https://github.com/user-attachments/assets/dc2a7f73-184d-4d3e-ba20-cbcd8c34f2b5)
-)  
-
+![Pneumonia Prediction UI](<img width="295" alt="image" src="https://github.com/user-attachments/assets/6a85915b-c493-4cf9-b7ff-9b5b8dfd7239" />
+)
 ---
 
 
